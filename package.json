@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homerours/cordova-music-controls-plugin.git"
+    "url": "git+https://github.com/zhengyanhu/cordova-music-controls-plugin.git"
   },
   "keywords": [
     "cordova",
